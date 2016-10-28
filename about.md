@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey everyone! The name's Katrina but feel free to call me Kat.
 
 ### More Information
 
