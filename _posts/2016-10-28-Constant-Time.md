@@ -24,7 +24,7 @@ The judges peer at the array and don't even look at any elements other than the 
 
 ```javascript
 var judge = function(arr) {
-	if (arr[0] === answer) console.log('Correct!');
+  if (arr[0] === answer) console.log('Correct!');
 }
 
 judge(answersGiven); //??
