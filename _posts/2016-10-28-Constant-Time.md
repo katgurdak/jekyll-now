@@ -13,7 +13,7 @@ Now, for an example!
 
 Let's say you're having trivia night with some friends. Everyone from your team can guess but the first answer given will be the only one the judges look at. As anticipation rises, the question is finally given:
 
-####How is Constant Time complexity represented with Big O notation?
+__How is Constant Time complexity represented with Big O notation?__
 
 The answers come flying in as you and your teammates individually send in their best guess.
 
